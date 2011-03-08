@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashin", "hashin\hashin.csproj", "{44629E01-D375-4CB6-97EF-928D0D7E8EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashin.specifications", "hashin.specifications\hashin.specifications.csproj", "{F50E756A-3A43-478B-9FBB-77B188569D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44629E01-D375-4CB6-97EF-928D0D7E8EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44629E01-D375-4CB6-97EF-928D0D7E8EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44629E01-D375-4CB6-97EF-928D0D7E8EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44629E01-D375-4CB6-97EF-928D0D7E8EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50E756A-3A43-478B-9FBB-77B188569D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50E756A-3A43-478B-9FBB-77B188569D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50E756A-3A43-478B-9FBB-77B188569D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50E756A-3A43-478B-9FBB-77B188569D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
